@@ -11,3 +11,5 @@ The application is deployed here: https://majestix508.shinyapps.io/shinyapp/
 The `presentation.Rpres` file is a slide-deck in RPresentation. It demonstrates some of the 
 most important features to slide presentations such as in-line code execution and
 rendering of plots (again using the `mtcars` dataset and the `ggplot2` package).
+
+The presentation is deployed here: http://rpubs.com/majestix508/fuelefficiency
