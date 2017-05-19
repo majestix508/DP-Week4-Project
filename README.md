@@ -1,10 +1,9 @@
 # Data Products Week 4 Project
 
 ## Shiny Application
-This Shiny application for the course is located in two files, the `ui.R` and `server.R`
-source-code files. Together, these files contain a simple Shiny application demonstrating
-how reactive input is handled to dynamically update the user-interface and plot `mtcars`
-data using the `ggplot2` package.
+This Shiny application for the course is located in the folder shinyApp. The files `ui.R` and `server.R`
+contain a simple Shiny application demonstrating how reactive input is handled to dynamically update the 
+user-interface and plot `mtcars` data using the `ggplot2` package.
 
 The application is deployed here: https://majestix508.shinyapps.io/shinyapp/
 
